@@ -29,12 +29,12 @@ Btw i found most of the help for this at https://www.geeksforgeeks.org/publish-w
 Ok now apparently reconfiguring DNS can take a while to figure itself out (up to 24 hours) so right now as i try it right after changing it it says ‘this site can’t be reached’, i’ll check back tomorrow for the final verdict of whether it worked or something is up. On github, it’s saying DNS check in progress for my custom domain so i can’t enforce HTTPS yet (01/28/25)
 
 
-Now I have to choose between using HTML or Php, or if they’re compatible with each other. I don’t know much about either so…
+Now I have to choose between using HTML or PHP, or if they’re compatible with each other. I don’t know much about either so…
 
 
 HTML (HyperText Markup Language)
 - Backbone of website, markup language used to structure content on web page
-- It’s STATIC, doesn’t handle and interactivity (which i would eventually want to implement)
+- It’s STATIC, doesn’t handle any interactivity (which i would eventually want to implement)
 - Client-side, so it runs in the user’s browser
 - Pros: simple to learn, compatible with all browsers, lightweight (because static files load quickly), independent (client-side)
 - Now a lot of the cons were already pretty much mentioned, it's static (no ability to interact with databases), and requires JavaScript or server-side scripting for anything advanced
