@@ -33,6 +33,8 @@ Lol update later the same day:
 ![Screenshot 2025-01-28 152213](https://github.com/user-attachments/assets/dcd7cf9d-bacb-458f-935f-4ed7967876d4)
 ok i think this is happening because i haven't done the HTTPS thing so it's technically not secure, DNS check is still in progress so I can't update that yet we'll see tomorrow. Also i don't know much about the TMU firewall i'll try it at the apartment and maybe it will be different
 
+GREAT NEWS! It works! The issue is the TMU firewall, hopefully once i can turn HTTPS on it will work on that too but when i opened it on my phone just connected to data it works. So amazing, that means all of the DNS stuff works and i can move onto the interesting stuff.
+
 Now I have to choose between using HTML or PHP, or if they’re compatible with each other. I don’t know much about either so…
 
 
