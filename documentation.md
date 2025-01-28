@@ -28,6 +28,9 @@ Btw i found most of the help for this at https://www.geeksforgeeks.org/publish-w
 
 Ok now apparently reconfiguring DNS can take a while to figure itself out (up to 24 hours) so right now as i try it right after changing it it says ‘this site can’t be reached’, i’ll check back tomorrow for the final verdict of whether it worked or something is up. On github, it’s saying DNS check in progress for my custom domain so i can’t enforce HTTPS yet (01/28/25)
 
+Lol update later the same day:
+![Screenshot 2025-01-28 152213](https://github.com/user-attachments/assets/dcd7cf9d-bacb-458f-935f-4ed7967876d4)
+ok i think this is happening because i haven't done the HTTPS thing so it's technically not secure, DNS check is still in progress so I can't update that yet we'll see tomorrow. Also i don't know much about the TMU firewall i'll try it at the apartment and maybe it will be different
 
 Now I have to choose between using HTML or PHP, or if they’re compatible with each other. I don’t know much about either so…
 
