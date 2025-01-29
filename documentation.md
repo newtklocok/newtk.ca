@@ -62,10 +62,11 @@ I found this website https://www.htmlhobbyist.com/html/ that i'm gonna look at a
 No idea if i'm doing this the right way it's quite confusing; some people are saying frontend vs backend stuff and how ReactJS (which uses JavaScript) is good for frontend, but i learned that since Github is only static, I only need the frontend to build a simple site. For now i can ignore the backend stuff. And for frontend, it's gonna be a combo of HTML for structure, CSS for styling, and JavaScript for interactivity.
 
 
-*just a little side note to keep here; found that i can either write JS inline in an html file or i make a .js file and link it in the HTML. thought that was cool, admittedly i don't know much about programming so maybe this isn't as revolutionary as i think. Maybe it does make sense though i remember how on the MARS website we could write inline HTML in the markdown for extra features that markdown didn't have built in i think - not sure if that was a similar thing or not though
+*just a little side note to keep here; found that i can either write JS inline in an html file or i make a .js file and link it in the HTML. thought that was cool, admittedly i don't know much about coding so maybe this isn't as revolutionary as i think. Maybe it does make sense though i remember how on the MARS website we could write inline HTML in the markdown for extra features that markdown didn't have built in i think - not sure if that was a similar thing or not though
 
 *another side note - found this guy https://www.reddit.com/r/webdev/comments/saf0mj/how_to_build_a_website_from_scratch_in_html_and/ who apparently has pretty nifty tutorials; it's pretty much job shadowing his as he build a site for a client purely in HTML and CSS, one thing he does that i want to implement is that he makes the website scale proportionally as the screen size changes, i think that's cool and eventually i'll try to do that
 
 
 Ok so i added a hyperlink - pretty sick!
 
+Getting a background seems to be giving me a fair bit of trouble - while trying to figure that out, i figured out how to locally host my website so that i can test changes (not sure why i didn't do this sooner). Pretty much the wsl command is "python3 -m http.server 8000" and then it's on "http://localhost:8000" in a browser. This is Python's built in HTTP Server, and works because Ubuntu usually has Python installed by default.
