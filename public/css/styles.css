@@ -1,7 +1,7 @@
 body {
-    background-image: url('../media/wallpaper.gif');
+    background-image: url('../media/background3.gif');
     background-size: cover;
     background-position: center;
-    background-repeat: repeat-y;
+    background-repeat: no-repeat;
     /*height: 100vh;*/
 }
