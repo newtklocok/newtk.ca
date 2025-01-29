@@ -1,7 +1,8 @@
 body {
-    background-image: url('../media/birds.jpg');
+    background-image: url('../media/bkg.png');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
     /*height: 100vh;*/
 }
+
