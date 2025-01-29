@@ -2,6 +2,6 @@ body {
     background-image: url('../media/wallpaper.gif');
     background-size: cover;
     background-position: center;
-    background-repeat: no-repeat;
+    background-repeat: repeat-y;
     /*height: 100vh;*/
 }
